@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756644750202",
+    "project_id": "signup-login-firebase-b37be",
+    "storage_bucket": "signup-login-firebase-b37be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756644750202:android:902f811c8973919f3f2cc3",
+        "android_client_info": {
+          "package_name": "com.vandee.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756644750202-4d2sa75tdmh6eskso6ipmq9eskb3r8gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3diqkbeZDhWqiHFHs0aBSGVJ8BSdSTg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756644750202-4d2sa75tdmh6eskso6ipmq9eskb3r8gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

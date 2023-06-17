@@ -3,4 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="lavender">#8692F7</color>
+    <color name="colorPrimary">@color/lavender</color>
+    <color name="colorPrimaryVariant">@color/lavender</color>
 </resources>
